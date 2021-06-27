@@ -105,7 +105,7 @@
 //console.log(c,b,a);
 //}
 
-// 2. Task
+ // 2. Task
 //let color= prompt('Який колір?');
 //
 //if (color === 'green'){
@@ -118,23 +118,23 @@
 //    document.write('i dont now')
 //}
 
-// 3. Task
-//let color = prompt("Color?");
-//let isRoadClear = confirm("Car?");
-//if( color === "green" && isRoadClear) {
-//    document.write("go")
-//} else if( color==="green"){
-//    document.write("stop")
-//} else if (color==="yellow" && isRoadClear){
-//    document.write("wait")
-//} else if( color==="yellow"){
-//    document.write("все рано жди")
-//} else if (color==="red" && isRoadClear){
-//    document.write("wait")
-//} else if( color === "red"){
-//    document.write("waiting")
-//} else if (color==="avariya"){
-//    document.write("do anything")
-//}
+//3. Task
+// let color = prompt("Color?");
+// let isRoadClear = confirm("Car?");
+// if( color === "green" && isRoadClear) {
+//     document.write("go")
+// } else if( color==="green"){
+//     document.write("stop")
+// } else if (color==="yellow" && isRoadClear){
+//     document.write("wait")
+// } else if( color==="yellow"){
+//     document.write("все рано жди")
+// } else if (color==="red" && isRoadClear){
+//     document.write("wait")
+// } else if( color === "red"){
+//     document.write("waiting")
+// } else if (color==="avariya"){
+//     document.write("do anything")
+// }
 
 
